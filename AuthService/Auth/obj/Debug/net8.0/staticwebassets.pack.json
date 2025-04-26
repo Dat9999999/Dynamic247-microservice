@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/dat9999999/workspace/final/dynamic247./AuthService/Auth/wwwroot/uploads/default_avatar.jpg",
+      "PackagePath": "staticwebassets/uploads/default_avatar.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Auth.props",
+      "PackagePath": "build\\Auth.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Auth.props",
+      "PackagePath": "buildMultiTargeting\\Auth.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Auth.props",
+      "PackagePath": "buildTransitive\\Auth.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

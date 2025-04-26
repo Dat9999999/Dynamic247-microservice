@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "wXRoJLAi+/6Ix2oUWQWVCLIcFnTF8sQ4JFQGtzNyGbk=",
+  "Source": "Auth",
+  "BasePath": "_content/Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Auth/wwwroot",
+      "Source": "Auth",
+      "ContentRoot": "/home/dat9999999/workspace/final/dynamic247./AuthService/Auth/wwwroot/",
+      "BasePath": "_content/Auth",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/dat9999999/workspace/final/dynamic247./AuthService/Auth/wwwroot/uploads/default_avatar.jpg",
+      "SourceId": "Auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/dat9999999/workspace/final/dynamic247./AuthService/Auth/wwwroot/",
+      "BasePath": "_content/Auth",
+      "RelativePath": "uploads/default_avatar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/default_avatar.jpg"
+    }
+  ]
+}
